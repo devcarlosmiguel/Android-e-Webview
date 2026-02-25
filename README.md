@@ -11,6 +11,12 @@ Aplicativo Android para calcular área e orçamento de revestimentos de forma r�
 - Diálogo de saída com avaliação na Play Store
 - Anúncios via Google AdMob
 
+## Download
+
+<a href="https://play.google.com/store/apps/details?id=com.cloudforge.calculadoram2">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" width="200"/>
+</a>
+
 ##  Tecnologias
 
 - Android (Kotlin)
